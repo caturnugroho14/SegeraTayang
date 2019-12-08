@@ -1,0 +1,65 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "no": 01,
+      "NamaFilm ": "Frozen 2",
+      "TanggalRilis": "20 November 2019 ( Indonesia ) ",
+      "SkorImdb": "7.3",
+      "Sinopsis": "Frozen 2 akan mengulik tentang asal-usul kekuatan Elsa. Adapun sinopsisnya berkutat pada pertanyaan mengapa Elsa lahir dengan kekuatan magis? Jawaban atas hal ini memanggilnya dan mengancam kerajaannya. Bersama Anna, Cristoff, Olaf dan Sven, ia menempuh perjalanan yang berbahaya sekaligus hebat. Di Frozen, Elsa takut kekuatannya tak bisa diterima dunia. Di Frozen 2, dia berharap kekuatannya cukup untuk menyelamatkan dunia.
+                  Dalam film Frozen 2 juga ditampilkan karakter-karakter baru. Adapun karakter baru tersebut ialah sesosok wanita muda berambut merah keriting. Ada juga seorang anak laki-laki yang terlihat aktif sekali. Nah kedua karakter ini diduga merupakan anak dari Anna dan Kristoff.",
+      "TempatRilis": "USA",
+      "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTASQOcj1QU4eQQDXp0H7TiMgVD23639KprA5McPuNCqo9O1i9t"
+    },
+    {
+      "id": 2,
+      "no": 02,
+      "NamaFilm ": "Mulan",
+      "TanggalRilis": "25 Maret 2020",
+      "SkorImdb": " 350 ",
+      "Sinopsis": "Untuk menyelamatkan ayahnya yang sakit agar tidak bertugas di Angkatan Darat Kekaisaran, seorang wanita muda yang tak kenal takut menyamar sebagai seorang pria untuk memerangi penjajah utara di Tiongkok.",
+      "TempatRilis": "Prancis",
+      "Poster": "https://www.google.com/imgres?imgurl=http%3A%2F%2F4.bp.blogspot.com%2F-MpTLudDQLGE%2FT5vqHKmu_8I%2FAAAAAAAAK8I%2F-xM8OUuQhyg%2Fs1600%2Fblog%2Bposter%2BMulan.jpg&imgrefurl=http%3A%2F%2Fthomas-kurniawan.blogspot.com%2F2012%2F04%2Fdisney-princess-celebrity-mulan.html&tbnid=UE11saUGaEHpuM&vet=12ahUKEwi64c2W5aTmAhU9hksFHfgYAlUQMygGegUIARCPAg..i&docid=xMvcUy4UM2oE5M&w=585&h=827&q=mulan%20poster&safe=strict&ved=2ahUKEwi64c2W5aTmAhU9hksFHfgYAlUQMygGegUIARCPAg"
+    },
+    {
+      "id": 3,
+      "no": 03,
+      "NamaFilm": "The New Mutants",
+      "TanggalRilis": "2 Agustus 2019",
+      "SkorImdb": "792",
+      "Sinopsis": "Magik, Wolfsbane dan mutan remaja lainnya mencoba untuk berkuasa dengan kekuatan super mereka saat tinggal di fasilitas rahasia.",
+      "TempatRilis": "Kanada",
+      "Poster":"http://t2.gstatic.com/images?q=tbn:ANd9GcR3OXGa2wVRnoOiqcnpcpNuQJ7ue5C38JlqOkqnnTZvWa2UVVRk"
+    },
+    {
+      "id": 4,
+      "no": 04,
+      "JudulFilm": "fast and furious 9",
+      "TanggalRilis": "21 Mei 2020",
+      "SkorImdb": "6.5",
+      "Sinopsis": "Fast & Furious 9 adalah film aksi Amerika mendatang yang disutradarai oleh Justin Lin dan ditulis oleh Chris Morgan dan Daniel Casey. Sekuel The Fate of the Furious 2017, itu akan menjadi angsuran kesepuluh dalam franchise Fast and the Furious dan film kesembilan di seri utama",
+      "TempatRilis": "Singapura",
+      "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRnVqjtdt3q1Qo2U7wNmC6uuPhOkmpAmQ6Fsee8X-poiKNFbLJw&s"
+    },
+    {
+      "id": 5,
+      "no": 05,
+      "JudulFilm": "Wonder Woman 1984",
+      "TanggalRilis": "4 Juni 2020",
+      "SkorImdb": "110",
+      "Sinopsis": "Wonder Woman kuadrat melawan Cheetah, seorang penjahat yang memiliki kekuatan dan kelincahan manusia super.",
+      "TempatRilis": "Rusia",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzAyOGJkMzUtMmRjYS00NGJmLWExNGEtYzI2YjVmMmQzMzFiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg"
+    },
+    {
+      "id": 6,
+      "no": 06,
+      "JudulFilm": "Black Widow",
+      "TanggalRilis": "30 April 2020",
+      "SkorImdb": "8.5",
+      "Sinopsis": "Mata-mata dan pembunuh internasional Natasha Romanoff menjadi pahlawan super Black Widow.",
+      "TempatRilis": "Singapura",
+      "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUbIdTMu0z6QBuOQNqXPiUvKr4oqUuz2kSPJP8grqg0ALkfYrp"
+    }
+  ]
+}
